@@ -8,7 +8,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-🌐 **Acesse o site:** [CLLA-Store](https://clla-store-git-main-christians-projects-d7285e51.vercel.app)
+🌐 **Acesse o site:** [CLLA-Store](https://clla-store.vercel.app/)
 
 ---
 
@@ -63,7 +63,7 @@ CLLA-Store/
 ## 🚀 Deploy / Produção
 
 O projeto está disponível online através do **Vercel**:  
-[CLLA-Store](https://clla-store-git-main-christians-projects-d7285e51.vercel.app)
+[CLLA-Store](https://clla-store.vercel.app/)
 
 ---
 
